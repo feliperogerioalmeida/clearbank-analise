@@ -1,0 +1,24 @@
+id,data,cliente_id,tipo,valor,descricao,categoria
+1,2026-01-05,CLI001,credito,3500.00,Salario janeiro,salario
+2,2026-01-12,CLI002,debito,180.50,Supermercado,compra
+3,2026-01-20,CLI001,debito,1200.00,Aluguel,moradia
+4,2026-01-28,CLI003,credito,12000.00,Bonus anual,salario
+5,2026-02-03,CLI002,credito,4200.00,Salario fevereiro,salario
+6,2026-02-14,CLI003,credito,15000.00,Transferencia recebida,transferencia
+7,2026-02-18,CLI002,debito,320.00,Conta de luz,conta
+8,2026-02-22,CLI001,debito,89.90,Streaming,assinatura
+9,2026-03-01,CLI001,credito,3500.00,Salario marco,salario
+10,2026-03-10,CLI003,debito,99.90,Academia,assinatura
+11,2026-03-15,CLI002,debito,540.75,Compras online,compra
+12,2026-03-25,CLI001,debito,2300.00,Fatura cartao,fatura
+13,2026-04-02,CLI002,credito,4200.00,Salario abril,salario
+14,2026-04-09,CLI003,debito,760.00,Material escolar,compra
+15,2026-04-18,CLI001,credito,11000.00,Venda de equipamento,transferencia
+16,2026-04-27,CLI002,debito,150.00,Farmacia,saude
+17,2026-01-22,CLI001,debito,abc,Erro de sistema,compra
+18,2026-02-30,CLI002,debito,200.00,Data impossivel,compra
+,2026-03-05,CLI003,credito,500.00,Sem id,salario
+19,05-03-2026,CLI001,debito,300.00,Data formato errado,compra
+20,2026-03-12,,debito,400.00,Sem cliente,compra
+21,2026-04-01,CLI002,emprestimo,1000.00,Tipo invalido,transferencia
+22,2026-04-05,CLI003,credito,-50.00,Valor negativo,compra

@@ -1,0 +1,68 @@
+{
+  "gerado_em": "2026-06-15",
+  "total_transacoes_validas": 16,
+  "total_transacoes_invalidas": 7,
+  "periodo": {
+    "data_inicial": "2026-01-05",
+    "data_final": "2026-04-27",
+    "dias_no_periodo": 112
+  },
+  "resumo_mensal": {
+    "2026-01": {
+      "quantidade": 4,
+      "total_credito": 15500.0,
+      "total_debito": 1380.5,
+      "saldo": 14119.5,
+      "valor_medio": 4220.12,
+      "maior_valor": 12000.0,
+      "menor_valor": 180.5
+    },
+    "2026-02": {
+      "quantidade": 4,
+      "total_credito": 19200.0,
+      "total_debito": 409.9,
+      "saldo": 18790.1,
+      "valor_medio": 4902.48,
+      "maior_valor": 15000.0,
+      "menor_valor": 89.9
+    },
+    "2026-03": {
+      "quantidade": 4,
+      "total_credito": 3500.0,
+      "total_debito": 2940.65,
+      "saldo": 559.35,
+      "valor_medio": 1610.16,
+      "maior_valor": 3500.0,
+      "menor_valor": 99.9
+    },
+    "2026-04": {
+      "quantidade": 4,
+      "total_credito": 15200.0,
+      "total_debito": 910.0,
+      "saldo": 14290.0,
+      "valor_medio": 4027.5,
+      "maior_valor": 11000.0,
+      "menor_valor": 150.0
+    }
+  },
+  "transacoes_suspeitas": [
+    {
+      "id": 4,
+      "cliente_id": "CLI003",
+      "data": "2026-01-28",
+      "valor": 12000.0
+    },
+    {
+      "id": 6,
+      "cliente_id": "CLI003",
+      "data": "2026-02-14",
+      "valor": 15000.0
+    },
+    {
+      "id": 15,
+      "cliente_id": "CLI001",
+      "data": "2026-04-18",
+      "valor": 11000.0
+    }
+  ]
+}
